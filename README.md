@@ -1,7 +1,7 @@
 # AI-Based Network Intrusion Detection System (Group 35)
 
 ## 1. Project Overview
-This project (BayesianGuard) is a real-time network security tool designed to detect and classify network anomalies. It utilizes a Hybrid Architecture combining a Gaussian Naive Bayes classifier for probabilistic prediction and Heuristic Logic for specific threat categorization (DoS, Reconnaissance, Data Exfiltration). The system is deployed via a Streamlit web interface for accessible forensic analysis.
+This project (BayesianGuard) is a simple, real-time network security tool designed to detect and classify network anomalies. It utilizes a Hybrid Architecture combining a Gaussian Naive Bayes classifier for probabilistic prediction and Heuristic Logic for specific threat categorization (DoS, Reconnaissance, Data Exfiltration). The system is deployed via a Streamlit web interface for accessible forensic analysis.
 
 ## 2. System Requirements
 To run the system efficiently, the host machine must meet the following specifications:
