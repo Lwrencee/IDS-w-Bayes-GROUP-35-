@@ -13,3 +13,7 @@ This project implements a Hybrid Intrusion Detection System using Gaussian Naive
 1. Clone the repo:
    ```bash
    git clone [https://github.com/Lwrencee/IDS-w-Bayes-GROUP-35-.git](https://github.com/Lwrencee/IDS-w-Bayes-GROUP-35-.git)
+2. Install dependencies:
+   pip install -r requirements.txt
+3. Run the app:
+   streamlit run app.py
